@@ -1,0 +1,15 @@
+*.pyc
+*~
+node_modules
+dist/
+docs/api/
+coverage/
+.DS_Store
+.vscode
+.babel-cache
+.idea/
+
+.env
+.env.*
+*.pem
+credentials.json

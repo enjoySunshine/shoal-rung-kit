@@ -1,0 +1,18 @@
+# The complete library, containing every available plugin.
+
++@ads
++@cast
++@cea
++@fairplay
++@networking
++@manifests
++@metadata
++@mkv
++@polyfill
++@polyfillForUI
++@queue
++@text
++@optionalText
++@transmuxer
++@devices
++@ui
